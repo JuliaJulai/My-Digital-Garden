@@ -15,6 +15,8 @@ This digital garden template is free, open-source, and [available on GitHub here
 
 The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
+How do I even get this started? can I just mention my not here? [[My New Digital Garden]]
+
 <style>
   .wrapper {
     max-width: 46em;
